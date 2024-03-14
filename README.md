@@ -1,10 +1,13 @@
-<div align="center">
- <img src="https://cdn.dribbble.com/users/43762/screenshots/1637863/media/2cfc46f0ebe1f1eb86392a1126acd960.gif" height="150"  />
-<div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%36BCF7FF&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
+<!--🖼️RICK-->
+<p align="center">
+<img src="https://media1.tenor.com/m/QlCbchFpeN4AAAAC/mobile-soc-smartphone-soc.gif" height="240" width="370">
 
 <br clear="both">
 
-<p align="left">👋 Hi there! I'm Kishor Kumar, hailing from the beautiful coastal city of Mangalore, India. I'm a passionate individual with a Bachelor's degree in Electronics and Communication Engineering (ECE) eager to delve into the world of semiconductor technology.<br><br>💼 Currently, I'm on the lookout for exciting opportunities within the semiconductor industry where I can leverage my skills and knowledge to contribute meaningfully. I have a keen interest in next-generation AI chip development and parallel computing.<br><br>🔬 When I'm not immersed in the world of circuits and chips, you can find me exploring the latest advancements in AI, tinkering with code, or enjoying a cup of chai while brainstorming new ideas.<br><br>🌱 I believe in continuous learning and growth, and I'm always eager to collaborate with like-minded individuals passionate about pushing the boundaries of technology.<br><br>📫 Feel free to reach out to me for discussions, or just to say hello! Let's connect and explore the endless possibilities together.kkumar.off001@gmail.com</p>
+<p align="left">👋 Hi there! I'm Kishor Kumar, hailing from the beautiful coastal city of Mangalore, India. I'm a passionate individual with a Bachelor's degree in Electronics and Communication Engineering (ECE) eager to delve into the world of semiconductor technology.<br><br>💼 Currently, I'm on the lookout for exciting opportunities within the semiconductor industry where I can leverage my skills and knowledge to contribute meaningfully. I have a keen interest in next-generation AI chip development and parallel computing.<br><br>🔬 When I'm not immersed in the world of circuits and chips, you can find me exploring the latest advancements in AI, tinkering with code, or enjoying a cup of chai while brainstorming new ideas.<br><br>🌱 I believe in continuous learning and growth, and I'm always eager to collaborate with like-minded individuals passionate about pushing the boundaries of technology.<br><br>📫 Feel free to reach out to me for discussions, or just to say hello! Let's connect and explore the endless possibilities together: <a href="https://www.linkedin.com/in/kishorkumar04" target="_blank">kkumar.off001@gmail.com</a></p>
 
 ###
 
@@ -72,6 +75,9 @@
 </div>
 
 ###
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishorKumar0&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 <br clear="both">
 
