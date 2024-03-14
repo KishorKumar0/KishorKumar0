@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/51/18/73/511873829447c8db6ce9083833723977.gif"  />
+<img align="right" height="250" src="https://i.pinimg.com/originals/51/18/73/511873829447c8db6ce9083833723977.gif"  />
 
 ###
 
@@ -49,8 +49,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/KishorKumar0/KishorKumar0/output/snake.svg" alt="Snake animation" />
 
