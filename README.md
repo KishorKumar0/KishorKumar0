@@ -30,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+
 </div>
 
 ###
@@ -46,12 +47,14 @@
 
 ###
 
-<img align="right" height="150" src="https://64.media.tumblr.com/bd4c2c7ff27ff98233abed3c58be1809/6c5f17b87a8c979b-db/s540x810/259717974c909f17d782e80501648100d1f9e05a.gifv"  />
+<img align="right" height="250" src="https://i.pinimg.com/originals/53/64/f0/5364f01b976f5496e404042019dc1d2a.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishorKumar0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=KishorKumar0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=KishorKumar0&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KishorKumar0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false" height="100" alt="languages graph"  />
 </div>
 
 ###
