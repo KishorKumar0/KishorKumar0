@@ -1,12 +1,16 @@
-![MasterHead](https://i.pinimg.com/originals/5d/71/ab/5d71abc60403b5344e7dcad193fa0e01.gif)
+![MasterHead](https://i.pinimg.com/564x/4f/0d/c6/4f0dc63d65f959a8ba21519cb36f647f.jpg)
 
 <br clear="both">
 
-<p align="left">👋 Hi there! I'm Kishor Kumar, hailing from the beautiful coastal city of Mangalore, India. I'm a passionate individual with a Bachelor's degree in Electronics and Communication Engineering (ECE) eager to delve into the world of semiconductor technology.<br><br>💼 Currently, I'm on the lookout for exciting opportunities within the semiconductor industry where I can leverage my skills and knowledge to contribute meaningfully. I have a keen interest in next-generation AI chip development and parallel computing.<br><br>🔬 When I'm not immersed in the world of circuits and chips, you can find me exploring the latest advancements in AI, tinkering with code, or enjoying a cup of chai while brainstorming new ideas.<br><br>🌱 I believe in continuous learning and growth, and I'm always eager to collaborate with like-minded individuals passionate about pushing the boundaries of technology.<br><br>📫 Feel free to reach out to me for discussions, collaborations, or just to say hello! Let's connect and explore the endless possibilities together.</p>
+<p align="left">👋 Hi there! I'm Kishor Kumar, hailing from the beautiful coastal city of Mangalore, India. I'm a passionate individual with a Bachelor's degree in Electronics and Communication Engineering (ECE) eager to delve into the world of semiconductor technology.<br><br>💼 Currently, I'm on the lookout for exciting opportunities within the semiconductor industry where I can leverage my skills and knowledge to contribute meaningfully. I have a keen interest in next-generation AI chip development and parallel computing.<br><br>🔬 When I'm not immersed in the world of circuits and chips, you can find me exploring the latest advancements in AI, tinkering with code, or enjoying a cup of chai while brainstorming new ideas.<br><br>🌱 I believe in continuous learning and growth, and I'm always eager to collaborate with like-minded individuals passionate about pushing the boundaries of technology.<br><br>📫 Feel free to reach out to me for discussions, or just to say hello! Let's connect and explore the endless possibilities together.kkumar.off001@gmail.com</p>
 
 ###
 
-<div align="left">
+<h4 align="center">Languages and Tools:</h4>
+
+###
+
+<div align="center">
   <img src="https://www.svgrepo.com/show/374163/verilog.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://eirikpre.gallerycdn.vsassets.io/extensions/eirikpre/systemverilog/0.13.3/1665418136714/Microsoft.VisualStudio.Services.Icons.Default" height="30" alt="c logo"  />
@@ -31,15 +35,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  /></div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <a href="kkumar.off001@gmail.com" target="_blank">
+<h4 align="center">Connect with me:</h4>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.instagram.com/kishor__kulal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:kkumar.off001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/kishorkumar04" target="_blank">
@@ -49,13 +59,13 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/53/64/f0/5364f01b976f5496e404042019dc1d2a.gif"  />
+<img align="right" height="250" src="https://i.pinimg.com/originals/53/64/f0/5364f01b976f5496e404042019dc1d2a.gif"  />
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KishorKumar0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KishorKumar0&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="100" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=KishorKumar0&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KishorKumar0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=default&hide_border=false" height="100" alt="languages graph"  />
 </div>
 
